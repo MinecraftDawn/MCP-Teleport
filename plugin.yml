@@ -1,0 +1,10 @@
+﻿name: teleport
+main: Teleport.main
+version: 0.1
+commands:
+  tp:
+    description: 0
+  spawn:
+    description: 0
+  setspawn:
+    description: 0
